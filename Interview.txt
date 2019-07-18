@@ -1,26 +1,34 @@
 
 Q1.What is your occupation?
 A.I am a math teacher at school.
+
 Q2.Do you understand the concept of irrational numbers?
 A.Yes, i have used them in my calculations quite a lot of times.
+
 Q3.Do you teach about irrational numbers in school?
 A.Yes i do, as they are an important part of school curriculum.
+
 Q4.Have you heard about Golden Ratio, which is also an irrational number?
 A.Yes i have.
+
 Q5.When did you learn about this number ?
 A.I first heard about this number while i was pursuing my Bachelors degree in Maths.
+
 Q6.Do you find this number interesting?
 A. At first i had very basic knowledge about this number. But, a few years later i attended a seminar where i learned more about this number and found it very fascinating.
+
 Q7. Which aspect of this number do you do you find most interesting?
 A. To me the most intersting aspect of this number is that it is being used since ancient times in not only geometry but also in art and architecture.
+
 Q8.Do you know this how this has been used is cometic surgey as well to get a perfectly propotionate face?
 A.That is really interesting!, i never heard about this before.
-Q8.Have you used this number in your calculations lately?
+
+Q9.Have you used this number in your calculations lately?
 A. No i don't use this number in my calculations.
-Q9.Do you teach about the golden ratio to your students?
-A. This number is not taught in detail in school. 
+
 Q10. Do you think it should be taught in schools?
 A.Yes i think this number can be applied to understanding many fields of study. SO, it should be added in the school curriculam.
+
 Q11.At last, do you want to lear more about golden ratio after this interview?
 A.Definitely. Especially after learning about how we can use in cosmetic surgeries today, i want to knpw more about it present usage.
 
