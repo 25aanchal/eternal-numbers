@@ -1,0 +1,83 @@
+package Problem8;
+
+import java.util.Scanner;
+
+public class EN_02 {
+public static void main(String args[]) {
+	Scanner sc=new Scanner(System.in);
+	System.out.println("Enter length of rectangle");
+	String n1=sc.nextLine();
+	Double num1=Double.parseDouble(n1);
+	System.out.println("Enter width of rectangle");
+	String n2=sc.nextLine();
+	Double num2=Double.parseDouble(n2);
+	if(num1>0&&num2>0) {
+	if(num1>num2) {
+	double result1=(num1/num2);
+	double result2=(num1+num2)/num1;
+	
+	System.out.println("result1="+result1);
+	System.out.println("Enter Phi to compare result1 with value of golden ratio");
+	
+	String p=sc.nextLine();
+	String phi=p.toLowerCase();
+	if(phi.equals("phi")) {
+		System.out.println("enter = to get result");
+		String op=sc.nextLine();
+		
+		if(op.equals("=")) {
+			
+			if(result1==1.618) {
+				System.out.println("YES");
+			}
+			else
+			{
+				System.out.println("NO");
+			}
+				}
+		else {
+			System.out.println("Invalid Input");
+		}
+			}
+	else {
+		System.out.println("Invalid Input");
+	}
+		
+		
+		System.out.println("result2="+result2);
+		System.out.println("Enter Phi to compare result2 with value of golden ratio");
+		String p2=sc.nextLine();
+		String phi2=p2.toLowerCase();
+		if(phi2.equals("phi")) {
+			System.out.println("enter = to get result");
+			String op2=sc.nextLine();
+			if(op2.equals("=")) {
+				if(result2==1.618) {
+					System.out.println("YES");
+				}
+				else
+				{
+					System.out.println("NO");
+				}
+			}
+			else {
+				System.out.println("Invalid Input");
+		}
+	
+	}
+		else {
+			System.out.println("Invalid Input");
+		}
+	}
+	
+	else {
+		System.out.println("Invalid Input:length should be greater than width");
+	}
+	}
+
+	else {
+		System.out.println("Invalid Input:input positive number");
+	}
+}
+}
+
